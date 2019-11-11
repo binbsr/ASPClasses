@@ -1,0 +1,17 @@
+ASP Browser Capabilities component: 
+It creates a BrowserType object that determines the type, capabilities and version number of a visitor's browser.
+
+ASP AdRotator Component:
+The ASP AdRotator component creates an AdRotator object that displays a different image each time a user enters
+or refreshes a page. A text file includes information about the images.
+
+ASP Content Linking Component:
+The ASP Content Linking component is used to create a quick and easy navigation system. The Content Linking component
+returns a Nextlink object that is used to hold a list of Web pages to be navigated.
+
+
+
+
+ASP Sending e-mail with CDOSYS:
+CDO (Collaboration Data Objects) is a Microsoft technology that is designed to simplify the creation of messaging applications.
+CDOSYS is a built-in component in ASP.

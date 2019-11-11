@@ -1,0 +1,22 @@
+<script language="vbscript" runat="server">
+
+sub Application_OnStart
+    Application("noofusersonline") = 0
+end sub
+
+sub Application_OnEnd
+'some code
+end sub
+
+sub Session_OnStart
+    Application.Lock
+        Application("noofusersonline") = Application("noofusersonline") + 1
+    Application.Unlock
+end sub
+
+sub Session_OnEnd
+    Application.Lock
+        Application("noofusersonline") = Application("noofusersonline") - 1
+    Application.Unlock
+end sub
+</script>

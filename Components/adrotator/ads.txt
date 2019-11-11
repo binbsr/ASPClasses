@@ -1,0 +1,13 @@
+REDIRECT adrotator.asp 
+WIDTH 468 
+HEIGHT 60 
+BORDER 0 
+*
+V-Hackathon.png
+https://www.kolpi.azurewebsites.net
+V-Hackathon Contest
+50
+Verscend.png
+https://www.verscend.com
+Verscend
+50
